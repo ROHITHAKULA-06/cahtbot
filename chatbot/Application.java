@@ -44,7 +44,6 @@ public class Application {
             if(Arrays.toString(list).contains(Name+".exe"))
             {
                 App="C:\\Windows\\System32\\"+Name+".exe";
-                System.out.println(App);
             }
             else{
             File file=new File("C:\\Program Files");
