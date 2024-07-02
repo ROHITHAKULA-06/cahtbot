@@ -13,6 +13,7 @@ public class Chatbot {
         while(true){
         System.out.print("$ ");
         String browse=sc.nextLine();
+        browse=browse.toLowerCase();
         String action;
         if(browse.equalsIgnoreCase("exit"))
             System.exit(0);
