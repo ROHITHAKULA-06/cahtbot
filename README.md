@@ -16,3 +16,6 @@ Last Modified Date: 02/07/2024
 
      Note : for opening an application yoou have to type "open" before mentioning the name of the application.
             And if you want to search something in browser then type search before mentioning the context you want to search.
+
+            in the folder "jar executable file" you will find a file named chatbot of .jvr extention to run this file
+            open cmd and navigate to the folder where the .jvr file is located and type "java -jar .\chatbot.jar" and you will see the execution.
