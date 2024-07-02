@@ -5,7 +5,6 @@ package chatbot;
  * @author rohit
  */
 import java.util.Scanner;
-import chatbot.Application;
 public class Chatbot {
     public static void main(String[] args) {
         url search=new url();
